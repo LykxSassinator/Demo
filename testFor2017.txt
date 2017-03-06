@@ -1,0 +1,7 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+    cout<<"This is a testing for My Lab PC in 2017.03.06"<<endl;
+    return 0;
+}
